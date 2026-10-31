@@ -1,3 +1,4 @@
+# KR2: SUSLOV.M
 import os
 import socket
 
